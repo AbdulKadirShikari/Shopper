@@ -1,5 +1,2 @@
-we will make an eCommerce website using React JS or Online Store using React JS. We will create the Home page where we will display the trending products, offer banner, newsletter subscription form, then we will make product page for men's category, women's category and kids category.
-
-After that we will make the single product page with product image gallery, product price, product description and related products list, then we will make the shopping cart page, that will display the product added in the cart. We will also make the login register page where use can create an account or login to the Ecommerce website.
-we also make admin panel where we can add product view order and change order status 
-we use  in backend nodejs and mongodb
+we will make a full stack eCommerce website using (MERN) React JS, MongoDB, Express and Node JS or Online Store using React JS. We will make the e-commerce front-end website to display products, product cart and login registration page using React JS.
+Then we will make the back-end of the website using express, node js, mongo db and react js. Where we will create the APIs to add product, display product, update product, update cart items and login registration API. We will also make the admin panel of our eCommerce website to add product, update product on our e-commerce website.
